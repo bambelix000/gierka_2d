@@ -1,27 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6acf244b-110f-4b36-a70b-16c1f9710358" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gierka_2d.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_down_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_down_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_left_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_left_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_right_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_right_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_up_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/PLAYER/boy_up_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ENTITY/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ENTITY/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MAIN/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MAIN/KeyHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MAIN/Main.java" afterDir="false" />
+    <list default="true" id="6acf244b-110f-4b36-a70b-16c1f9710358" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/res/MAPS/map01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/TILES/grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/TILES/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/TILES/water.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TILE/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TILE/TileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ENTITY/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ENTITY/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ENTITY/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ENTITY/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MAIN/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MAIN/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,6 +55,7 @@
       <recent name="D:\java\pliki java\gierka_2d\src\PLAYER" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\pliki java\gierka_2d\res\MAPS" />
       <recent name="D:\java\pliki java\gierka_2d\res" />
       <recent name="D:\java\pliki java\gierka_2d\src\PLAYER" />
       <recent name="D:\java\pliki java\gierka_2d\src" />
@@ -99,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663943463251</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1664204231635</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664204231635</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +113,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
